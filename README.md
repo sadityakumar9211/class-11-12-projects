@@ -18,7 +18,7 @@ These are the projects which I did  in class 11th and 12th.
 
 
 ### Steps to Run the Code
-- Open https://onlinegdb.com/ 
+- Open <a href="https://onlinegdb.com" target="_blank">https://onlinegdb.com</a>
 - Select language as (C++)Turbo C++
 - copy-paste the code in the editor
 - Click on the **Run** button
