@@ -15,3 +15,11 @@ These are the projects which I did  in class 11th and 12th.
  - This project was developed in Turbo C++ environment in 2018 by @sadityakumar9211 as a class project and uploaded on GitHub on 19 September 2022. 
  - This project uses many legacy and abandoned functions and which are only possible to execute properly in the Turbo C++ environment. 
  - I had tried to use many functions like delay() function from <dos.h> and function to change the background color of console to make the environment much more interactive. 
+
+
+### Steps to Run the Code
+- Open https://onlinegdb.com/ 
+- Select language as (C++)Turbo C++
+- copy-paste the code in the editor
+- Click on the **Run** button
+- Follow the instructions on the console.
