@@ -1,6 +1,6 @@
 # Class XI and XII projects.
 These are the projects which I did  in class 11th and 12th.
-<p><i>These code can be run on **Turbo C++ compilers only**.</i></p>
+<p><i>These code can be run on <b>Turbo C++ compilers only</b>.</i></p>
 
 ### Number system Conversion Project (Class XI)
  - You can input a number in any number system(binary, decimal, octal, and hexadecimal) and you can choose to convert it to any other number system. 
